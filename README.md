@@ -2,7 +2,7 @@
 
 ---
 
-### A Brazilian Aspiring Data Analyst 🇧🇷
+### A Brazilian Aspiring Data Analyst
 
 🔭 I’m currently working on [Montcalm](https://montcalm.com.br/)
 

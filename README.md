@@ -2,7 +2,7 @@
 
 ---
 
-### Um aspirante a Analista de Dados
+### Sou um aspirante a Analista de Dados
 
 👨‍💻 Atualmente trabalho na [Montcalm](https://montcalm.com.br/)
 

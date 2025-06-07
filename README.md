@@ -9,7 +9,9 @@
 
 ### Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/) (https://www.linkedin.com/in/murilo-nunes-neto/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilonunesneto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/seu-usuario/)
+
+(https://www.linkedin.com/in/murilo-nunes-neto/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilonunesneto@gmail.com)
 ---
 ### Linguagens e Ferramentas
 

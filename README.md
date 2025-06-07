@@ -1,9 +1,6 @@
-## 👋 Olá, me chamo Murilo
+### Olá, eu sou Murilo 👋
 
----
-
-### Sou um aspirante a Analista de Dados
-
+## Sobre mim
 👨‍💻 Atualmente trabalho na [Montcalm](https://montcalm.com.br/)
 
 🌱 Estou aprendendo analise de dados relacionais com **MySQL and MS SQL Server**

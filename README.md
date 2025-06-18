@@ -19,3 +19,10 @@
 
 🛢️ Engenharia de Dados: MySQL, MS SQL Server
 
+---
+
+```python
+if success() == True:
+    celebrate()
+while success() == False:
+    try_again()

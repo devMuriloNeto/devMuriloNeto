@@ -19,6 +19,8 @@
 
 🛢️ Engenharia de Dados: MySQL, MS SQL Server
 
+🌐 Desenvolvimento Web: HTML
+
 ---
 
 ```python

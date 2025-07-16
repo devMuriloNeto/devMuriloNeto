@@ -17,9 +17,13 @@
 
 📊 Análise de Dados: Microsoft Excel
 
-🛢️ Engenharia de Dados: MySQL, MS SQL Server
+🛢️ Engenharia de Dados:
 
-🌐 Desenvolvimento Web: HTML, CSS
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) 
+
+🌐 Desenvolvimento Web:
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 ---
 

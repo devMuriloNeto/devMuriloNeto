@@ -1,16 +1,14 @@
-### Olá, eu sou Murilo 👋
+<div align="center">
 
-##
- Sobre mim
+  ## Sobre mim
+  
+</div>
+
 👨‍💻 Atualmente trabalho na [Montcalm](https://montcalm.com.br/)
 
 🌱 Estou aprendendo analise de dados relacionais com **MySQL e MS SQL Server**
 
 📚 Sou estudante de **Análise e Desenvolvimento de Sistemas**
-
-### Conecte-se comigo:
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/murilo-nunes-neto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](murilonunesneto@gmail.com)
 
 
 ----
@@ -47,6 +45,17 @@
 
 </table>
 
+---
+
+<div align="center">
+
+  ## Conecte-se comigo
+  
+</div>
+
+
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/murilo-nunes-neto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](murilonunesneto@gmail.com)
 
 
 ---

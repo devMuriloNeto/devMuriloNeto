@@ -51,8 +51,8 @@
     <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Bancos de Dados</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/MySQL-Dark.svg" height="50" title="MySQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/PostgreSQL-Dark.svg" height="50" title="MySQL"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/MySQL-Light.svg" height="50" title="MySQL"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/PostgreSQL-Light.svg" height="50" title="MySQL"/></td>
     <td></td>
   </tr>
 

@@ -6,7 +6,7 @@
 
 👨‍💻 Atualmente trabalho na [Montcalm](https://montcalm.com.br/)
 
-🌱 Estou aprendendo analise de dados relacionais com **MySQL e MS SQL Server**
+🌱 Estou aprendendo Desenvolvimento de Sistemas Web
 
 📚 Sou estudante de **Análise e Desenvolvimento de Sistemas**
 

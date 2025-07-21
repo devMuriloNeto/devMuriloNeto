@@ -30,7 +30,18 @@
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td> 
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript"
+ /></td>
+  </tr>
+
+  <!-- ⚙️ Frameworks -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Frameworks</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React" /></td>
+    <td></td>
+    <td></td>
   </tr>
 
   <!-- 🗄️ Databases -->
@@ -39,7 +50,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/MySQL-Light.svg" height="50" title="MySQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/PostgreSQL-Light.svg" height="50" title="MySQL"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/PostgreSQL-Light.svg" height="50" title="PostgreeSQL"/></td>
     <td></td>
   </tr>
 

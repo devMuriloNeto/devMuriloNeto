@@ -34,16 +34,6 @@
  /></td>
   </tr>
 
-  <!-- ⚙️ Frameworks -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Frameworks</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React" /></td>
-    <td></td>
-    <td></td>
-  </tr>
-
   <!-- 🗄️ Databases -->
   <tr>
     <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Bancos de Dados</th>

@@ -25,7 +25,7 @@
 
   <!-- 🌐 Web Development -->
   <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Desenvolvimento Web</th>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">Front-end</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td> 
@@ -35,7 +35,7 @@
   </tr>
 
    <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">Backend</th>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">Back-end</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/NodeJS-Dark.svg" height="50" title="NodeJs"/></td>
@@ -45,7 +45,7 @@
 
   <!-- 🗄️ Databases -->
   <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Bancos de Dados</th>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">Bancos de Dados</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/MySQL-Light.svg" height="50" title="MySQL"/></td>

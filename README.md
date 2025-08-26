@@ -39,7 +39,6 @@
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/NodeJS-Dark.svg" height="50" title="NodeJs"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/ExpressJS-Dark.svg" height="50" title="ExpresssJs"/></td>
     <td></td>
   </tr>
 

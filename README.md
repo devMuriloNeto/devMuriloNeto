@@ -54,7 +54,7 @@
 
 <!-- 🛠️ Tools -->
   <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">Tools</th>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">Ferramentas</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Git.svg" height="50" title="Git"/></td>

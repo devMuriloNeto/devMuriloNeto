@@ -61,7 +61,4 @@
 
 </table>
 
----
-
-<div align="center">
 

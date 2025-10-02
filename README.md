@@ -30,14 +30,12 @@
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td> 
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Bootstrap.svg" height ="50" title="Bootstrap"/></td>
   </tr>
 
 
   <tr>
     <td>Back-end</td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/NodeJS-Dark.svg" height="50" title="NodeJs"/></td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -49,7 +47,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/MySQL-Light.svg" height="50" title="MySQL"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/PostgreSQL-Light.svg" height="50" title="PostgreeSQL"/></td>
     <td></td>
-    <td></td>
   </tr>
 
 <!-- 🛠️ Tools -->
@@ -59,7 +56,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/VSCode-Dark.svg" height="50" title="VSCode"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Github-Dark.svg" height="50" title="Github"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Git.svg" height="50" title="Git"/></td>
-    <td></td>
   </tr>
 
 </table>

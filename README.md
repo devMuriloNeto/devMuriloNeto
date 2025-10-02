@@ -27,9 +27,9 @@
 
   <tr>
     <td>Front-end</td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="50" title="HTML5" /></td> 
-    <td><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="50" title="CSS3" /></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="50" title="JavaScript"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/HTML.svg" height="50" title="HTML5" /></td> 
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/CSS.svg" height="50" title="CSS3" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/JavaScript.svg" height="50" title="JavaScript"/></td>
   </tr>
 
 

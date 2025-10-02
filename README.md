@@ -27,15 +27,15 @@
 
   <tr>
     <td>Front-end</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td> 
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript"/></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="50" title="HTML5" /></td> 
+    <td><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="50" title="CSS3" /></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="50" title="JavaScript"/></td>
   </tr>
 
 
   <tr>
     <td>Back-end</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/NodeJS-Dark.svg" height="50" title="NodeJs"/></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="50" title="NodeJs"/></td>
     <td></td>
     <td></td>
   </tr>
@@ -44,8 +44,8 @@
 
   <tr>
     <td>Banco <br> de dados</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/MySQL-Light.svg" height="50" title="MySQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/PostgreSQL-Light.svg" height="50" title="PostgreeSQL"/></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="50" title="MySQL"/></td>
+    <td><img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" height="50" title="PostgreeSQL"/></td>
     <td></td>
   </tr>
 

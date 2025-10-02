@@ -45,7 +45,7 @@
   <tr>
     <td>Banco <br> de dados</td>
     <td><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="50" title="MySQL"/></td>
-    <td><img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" height="50" title="PostgreeSQL"/></td>
+    <td><img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" height="50" title="MS SQL Server"/></td>
     <td></td>
   </tr>
 

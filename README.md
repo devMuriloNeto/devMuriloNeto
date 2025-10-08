@@ -56,10 +56,11 @@
 
   <tr>
     <td>Ferramentas</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/VSCode-Dark.svg" height="50" title="VSCode"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Github-Dark.svg" height="50" title="Github"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Git.svg" height="50" title="Git"/></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="50" title="Swagger"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Postman.svg" height="50" title="Postman"/></td>
+    
   </tr>
 
 </table>

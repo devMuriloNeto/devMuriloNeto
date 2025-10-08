@@ -64,7 +64,7 @@
     <td>Versionamento <br> e Colaboração</td>
     <td><img src="https://www.svgrepo.com/show/450156/github.svg" height="50" title="Github"/></td>
     <td><img src="https://www.svgrepo.com/show/452210/git.svg" height="50" title="Git"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Trello.svg" height="50" title="Trello"/></td>
+    <td><img src="https://www.svgrepo.com/show/475688/trello-color.svg" height="50" title="Trello"/></td>
     
   </tr>
 

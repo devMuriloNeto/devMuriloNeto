@@ -40,15 +40,6 @@
     <td></td>
   </tr>
 
-<!-- Testes de APIs -->
-
-  <tr>
-    <td>Testes de APIs</td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="50" title="Swagger"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Postman.svg" height="50" title="Postman"/></td>
-    <td></td>
-  </tr>
-
   <!-- 🗄️ Databases -->
 
   <tr>
@@ -58,7 +49,16 @@
     <td></td>
   </tr>
 
-<!-- 🛠️ Tools -->
+  <!-- Testes de APIs -->
+
+  <tr>
+    <td>Testes de APIs</td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="50" title="Swagger"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Postman.svg" height="50" title="Postman"/></td>
+    <td></td>
+  </tr>
+
+ <!-- 🛠️ Tools -->
 
   <tr>
     <td>Versionamento <br> e Colaboração</td>

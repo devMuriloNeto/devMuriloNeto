@@ -30,12 +30,14 @@
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/HTML.svg" height="50" title="HTML5" /></td> 
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/CSS.svg" height="50" title="CSS3" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/JavaScript.svg" height="50" title="JavaScript"/></td>
+    <td></td>
   </tr>
 
 
   <tr>
     <td>Back-end</td>
     <td><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="50" title="NodeJs"/></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -47,6 +49,7 @@
     <td><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="50" title="MySQL"/></td>
     <td><img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" height="50" title="MS SQL Server"/></td>
     <td></td>
+    <td></td>
   </tr>
 
 <!-- 🛠️ Tools -->
@@ -56,6 +59,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/VSCode-Dark.svg" height="50" title="VSCode"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Github-Dark.svg" height="50" title="Github"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Git.svg" height="50" title="Git"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@master/icons/Postman.svg" height="50" title="Postman"/></td>
   </tr>
 
 </table>

@@ -23,9 +23,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###

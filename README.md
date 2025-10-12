@@ -23,13 +23,15 @@
 ###
 
 <div align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="40" alt="javascript logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="40" alt="HTML5"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="40" alt="javascript logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="40" alt="CSS3"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="40" alt="javascript logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="40" alt="javascript"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" alt="nodejs logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" alt="NodeJs"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="40" alt="MySQL"  />
 </div>
 
 ###

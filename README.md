@@ -13,7 +13,7 @@
 
 📘 Estudante de Análise e Desenvolvimento de Sistemas<br>
 
-⚙️ Futuro desenvolvedor Back-end
+⚙️ Desenvolvedor de API's
 </p>
 
 ###

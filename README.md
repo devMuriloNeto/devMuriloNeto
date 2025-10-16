@@ -11,7 +11,7 @@
 
 📘 Estudante de Análise e Desenvolvimento de Sistemas<br>
 
-⚙️ Desenvolvedor de API's
+⚙️ Desenvolvedor Web
 </p>
 
 ###

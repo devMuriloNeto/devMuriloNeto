@@ -24,12 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/devMuriloNeto/devMuriloNeto/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Meu contatos</h2>
 
 ###

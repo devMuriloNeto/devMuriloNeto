@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Analista de Sistemas<br>📘 Estudante de Análise e Desenvolvimento de Sistemas<br>⚙️ Desenvolvedor Web</p>
+<p align="left">👨‍💻 Analista de Sistemas<br><br>📘 Estudante de Análise e Desenvolvimento de Sistemas<br><br>⚙️ Desenvolvedor Web</p>
 
 ###
 

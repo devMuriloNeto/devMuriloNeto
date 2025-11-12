@@ -31,16 +31,3 @@
 </div>
 
 ###
-
-<h2 align="left">Meus contatos</h2>
-
-###
-
-<div align="left">
-  <img src="https://www.svgrepo.com/show/331463/linkedin.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-</div>
-
-###

@@ -10,7 +10,9 @@ Meu propósito é descomplicar a ciencia e analise de dados, transformando dados
 <br>
 Essas são minhas certificações atuais.
 
- **Fundamentos Python - SENAI (30h)**  
+<img align="right" alt="Vetor by MNN" height="60" src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png">
+ 
+ **Fundamentos Python - CISCO**  
   Fundamentos Python
 
 

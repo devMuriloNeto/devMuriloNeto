@@ -1,5 +1,5 @@
 <h1>Murilo Neto</h1>
-<img align="right" alt="Vetor by MNN" height="450" src="https://cdn-icons-png.flaticon.com/512/1802/1802977.png">
+<!-- <img align="right" alt="Vetor by MNN" height="450" src="https://cdn-icons-png.flaticon.com/512/1802/1802977.png"> -->
 
 <p align="justify">Olá! Sou Murilo Nunes Neto, tenho 25 anos e sou Analista de Sistemas no grupo Montcalm (composto pelas empresas Montcalm, Adler, Spool Brasil e MCM) com ampla experiência em Excel, SQL, e JavaScript(NodeJS), 
   

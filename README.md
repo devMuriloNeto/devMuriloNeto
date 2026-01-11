@@ -1,9 +1,9 @@
 <h1>Murilo Neto</h1>
 <!-- <img align="right" alt="Vetor by MNN" height="450" src="https://cdn-icons-png.flaticon.com/512/1802/1802977.png"> -->
 
-<p align="justify">Olá! Sou Murilo Nunes Neto, tenho 25 anos e sou Analista de Sistemas no grupo Montcalm (composto pelas empresas Montcalm, Adler, Spool Brasil e MCM) com ampla experiência em Excel, SQL, e JavaScript(NodeJS), 
+<p align="justify">Olá! Sou Murilo Nunes Neto, tenho 25 anos e sou Analista de Sistemas no grupo Montcalm (composto pelas empresas Montcalm, Adler, Spool Brasil e MCM) com ampla experiência em Excel, SQL, e APIs Rest feitas em JavaScript(NodeJS), 
   
-Sou Técnico em Administração de Empresas e graduando em Analise e Desenvolvimento de Sistemas pela Uninove, onde ingressei como bolsista 100% pelo Prouni(Programa Universidade para Todos).
+Sou Técnico em Administração de Empresas pela ETEC e graduando em Analise e Desenvolvimento de Sistemas pela Uninove, onde ingressei como bolsista 100% pelo Prouni(Programa Universidade para Todos).
 
 Meu propósito é descomplicar a ciencia e analise de dados, transformando dados brutos em informações de valor para que empresas e pessoas tomem decisões mais estratégicas e eficientes.
 <br>

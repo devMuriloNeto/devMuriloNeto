@@ -6,18 +6,25 @@
 Sou Técnico em Administração de Empresas pela ETEC e graduando em Analise e Desenvolvimento de Sistemas pela Uninove, onde ingressei como bolsista 100% pelo Prouni(Programa Universidade para Todos).
 
 Meu propósito é descomplicar a ciencia e analise de dados, transformando dados brutos em informações de valor para que empresas e pessoas tomem decisões mais estratégicas e eficientes.
+
 <br>
+
+### Certificações & Insígnias
+
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="120" alt="Python Essentials I - CISCO">
+    </td>
+    <td>
+      <b>Python Essentials I</b><br>
+      Cisco Networking Academy
+    </td>
+  </tr>
+</table>
+
 <br>
-Essas são minhas certificações atuais.
-
-<img align="right" alt="Vetor by MNN" height="60" src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png">
- 
- **Python Essentials I - CISCO**  
-  Fundamentos Python
-
-
-  
-
 
 ### Tecnologias e Ferramentas que utilizo
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)

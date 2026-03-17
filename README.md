@@ -11,15 +11,16 @@ Meu propósito é descomplicar a ciencia e analise de dados, transformando dados
 
 ### Certificações & Insígnias
 
-
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="120" alt="Python Essentials I - CISCO">
+    <td align="center" width="120">
+      <a href="https://www.credly.com/badges/68c0b94d-f6ac-40b1-a0e0-921439eb092e" target="_blank">
+        <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="120" alt="Python Essentials I - CISCO">
+      </a>
     </td>
     <td>
       <b>Python Essentials I</b><br>
-      Cisco Networking Academy
+      CISCO - Networking Academy
     </td>
   </tr>
 </table>

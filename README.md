@@ -25,3 +25,4 @@ Essas são minhas certificações atuais.
 [![Node.js](	https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-0175C2?logo=python&logoColor=ffffff)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-E25A1C?logo=Jupyter&logoColor=ffffff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-FFA500?logo=power-bi&logoColor=ffffff)](#)

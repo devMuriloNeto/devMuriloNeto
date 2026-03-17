@@ -22,7 +22,8 @@ Essas são minhas certificações atuais.
 ### Tecnologias e Ferramentas que utilizo
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Node.js](	https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-0175C2?logo=python&logoColor=ffffff)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-E25A1C?logo=Jupyter&logoColor=ffffff)](#)
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-FFA500?logo=power-bi&logoColor=ffffff)](#)
+[![Node.js](	https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=node.js&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-1976D2?logo=python&logoColor=ffffff)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F60?logo=Jupyter&logoColor=ffffff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F9AB00?logo=power-bi&logoColor=ffffff)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)

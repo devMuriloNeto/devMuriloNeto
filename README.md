@@ -14,7 +14,7 @@ Meu propósito é descomplicar a ciencia e analise de dados, transformando dados
 <table>
   <tr>
     <td align="center" width="120">
-      <a href="https://www.credly.com/badges/68c0b94d-f6ac-40b1-a0e0-921439eb092e](https://www.credly.com/badges/51992256-529a-455b-aea5-9528f1ca0b5d" target="_blank">
+      <a href="https://www.credly.com/badges/51992256-529a-455b-aea5-9528f1ca0b5d" target="_blank">
         <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="120" alt="Python Essentials I - CISCO">
       </a>
     </td>

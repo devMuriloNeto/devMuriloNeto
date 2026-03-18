@@ -32,6 +32,6 @@ Meu propósito é descomplicar a ciencia e analise de dados, transformando dados
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Node.js](	https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-1976D2?logo=python&logoColor=ffffff)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F60?logo=Jupyter&logoColor=ffffff)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-FF7F0E?logo=Jupyter&logoColor=ffffff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)

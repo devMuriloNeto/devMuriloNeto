@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou Murilo Nunes Neto, tenho 25 anos e sou Técnico em Administração de Empresas e graduando em Analise e Desenvolvimento de Sistemas, com ampla experiência profissional em banco de dados SQL e APIs Rest feitas com NodeJS.<br><br>Tenho foco em desenvolvimento backend, com ênfase na engenharia de microsserviços para integração de sistemas e na aplicação de IA em soluções interativas, sempre seguindo boas práticas de arquitetura, desempenho e escalabilidade.</p>
+<p align="left">Olá! Sou Murilo Nunes Neto, tenho 25 anos, sou Técnico em Administração de Empresas e graduando em Analise e Desenvolvimento de Sistemas, com ampla experiência profissional em banco de dados SQL e APIs Rest feitas com NodeJS.<br><br>Tenho foco em desenvolvimento backend, com ênfase na engenharia de microsserviços para integração de sistemas e na aplicação de IA em soluções interativas, sempre seguindo boas práticas de arquitetura, desempenho e escalabilidade.</p>
 
 ###
 

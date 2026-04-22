@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou Murilo Nunes Neto, tenho 25 anos e sou Analista de Sistemas no grupo Montcalm (composto pelas empresas Montcalm, Adler, Spool Brasil e MCM) com ampla experiência em Excel, SQL, e APIs Rest feitas em JavaScript(NodeJS).<br><br>Sou Técnico em Administração de Empresas pela ETEC e graduando em Analise e Desenvolvimento de Sistemas pela Uninove, onde ingressei como bolsista 100% pelo Prouni(Programa Universidade para Todos).<br><br>Tenho como foco o desenvolvimento backend orientado a dados, com interesse em arquiteturas modernas, integração de sistemas e boas práticas na construção de APIs.</p>
+<p align="left">Olá! Sou Murilo Nunes Neto, tenho 25 anos e sou Técnico em Administração de Empresas e graduando em Analise e Desenvolvimento de Sistemas, com ampla experiência profissional em banco de dados SQL e APIs Rest feitas com NodeJS.<br><br>Tenho foco em desenvolvimento backend, com ênfase na engenharia de microsserviços para integração de sistemas e na aplicação de IA em soluções interativas, sempre seguindo boas práticas de arquitetura, desempenho e escalabilidade.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">Minhas estatísticas</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=devMuriloNeto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
